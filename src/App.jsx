@@ -7,7 +7,7 @@ function App() {
       <h1 className="text-4xl-white w-3.5" >Welcom Tailwind</h1>
       <ul className="list">
         <li className="item">
-          <h2 className="text-white w-1 ">
+          <h2 className="text-2x white w-1 ">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime placeat eum amet tempora temporibus dolorum, tenetur maiores facere suscipit molestiae error optio minus, accusantium accusamus! Architecto eum facere odio explicabo.
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium autem totam quibusdam quo necessitatibus saepe, possimus minima suscipit voluptate iste sapiente rerum molestiae commodi explicabo sit nisi. Temporibus, dolores excepturi?
           </h2>
