@@ -4,7 +4,9 @@ import tailwindcss from '@tailwindcss/vite'
 
 function App() {
   return (
-    <div></div>
+    <div className="cards">
+      <h1></h1>
+    </div>
   )
 }
 
