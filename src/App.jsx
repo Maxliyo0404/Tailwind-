@@ -3,9 +3,9 @@ import React from 'react'
 
 function App() {
   return (
-    
-    <div className="bg-black mx-auto max-w-[1200px] p-5"> // mx-auto va max-w-7xl markazlash uchun ishlatiladi
+    // mx-auto va max-w-7xl markazlash uchun ishlatiladi
     // bg-black to'g'ri, lekin ranglar uchun text-white alohida bo'lishi kerak
+    <div className="bg-black mx-auto max-w-[1200px] p-5"> 
       
       <h1 className="text-4xl text-white">Welcome Tailwind</h1>
       
