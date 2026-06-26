@@ -9,6 +9,7 @@ function App() {
         <li className="item">
           <h2 className="title">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime placeat eum amet tempora temporibus dolorum, tenetur maiores facere suscipit molestiae error optio minus, accusantium accusamus! Architecto eum facere odio explicabo.
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium autem totam quibusdam quo necessitatibus saepe, possimus minima suscipit voluptate iste sapiente rerum molestiae commodi explicabo sit nisi. Temporibus, dolores excepturi?
           </h2>
         </li>
       </ul>
