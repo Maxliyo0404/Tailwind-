@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 function App() {
   return (
-    <div>App</div>
+    <div></div>
   )
 }
 
