@@ -3,6 +3,9 @@ import React from 'react'
 
 function App() {
   return (
+    <body>
+      
+    </body>
     <div className="bg-black mx- w-17" >
       <h1 className="text-white w-1" >Welcom Tailwind</h1>
     </div>
