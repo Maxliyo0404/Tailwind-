@@ -3,13 +3,17 @@ import React from 'react'
 
 function App() {
   return (
-    <div className="bg-black mx- w-1200" >
-      <h1 className="text-4xl-white w-3.5" >Welcom Tailwind</h1>
-      <ul className="list">
+    // mx-auto va max-w-7xl markazlash uchun ishlatiladi
+    // bg-black to'g'ri, lekin ranglar uchun text-white alohida bo'lishi kerak
+    <div className="bg-black mx-auto max-w-[1200px] p-5"> 
+      
+      <h1 className="text-4xl text-white">Welcome Tailwind</h1>
+      
+      <ul className="list-disc text-white">
         <li className="item">
-          <h2 className="text-2x white w-1 ">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime placeat eum amet tempora temporibus dolorum, tenetur maiores facere suscipit molestiae error optio minus, accusantium accusamus! Architecto eum facere odio explicabo.
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium autem totam quibusdam quo necessitatibus saepe, possimus minima suscipit voluptate iste sapiente rerum molestiae commodi explicabo sit nisi. Temporibus, dolores excepturi?
+          {/* text-2xl alohida, text-white alohida */}
+          <h2 className="text-2xl text-white">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit...
           </h2>
         </li>
       </ul>
