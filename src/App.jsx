@@ -4,7 +4,7 @@ import React from 'react'
 function App() {
   return (
     <div className="bg-black mx- w-1200" >
-      <h1 className="text-white w-3.5" >Welcom Tailwind</h1>
+      <h1 className="text-4xl-white w-3.5" >Welcom Tailwind</h1>
       <ul className="list">
         <li className="item">
           <h2 className="text-white w-1 ">
