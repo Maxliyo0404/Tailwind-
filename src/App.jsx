@@ -8,7 +8,7 @@ function App() {
       <ul className="list">
         <li className="item">
           <h2 className="title">
-            
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime placeat eum amet tempora temporibus dolorum, tenetur maiores facere suscipit molestiae error optio minus, accusantium accusamus! Architecto eum facere odio explicabo.
           </h2>
         </li>
       </ul>
