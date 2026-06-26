@@ -3,8 +3,8 @@ import React from 'react'
 
 function App() {
   return (
-    <div className="cards">
-      <h1 className="text-red-600 w-1" >Welcom Tailwind</h1>
+    <div className="bg-black mx- w-17" >
+      <h1 className="text-white w-1" >Welcom Tailwind</h1>
     </div>
   )
 }
