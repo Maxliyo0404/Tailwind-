@@ -15,6 +15,7 @@ function App() {
           <h2 className="text-2xl text-white">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit...
           </h2>
+          <p></p>
         </li>
       </ul>
     </div>
