@@ -6,7 +6,7 @@ function App() {
     <div className="bg-black mx- w-17" >
       <h1 className="text-white w-1" >Welcom Tailwind</h1>
       <ul className="list">
-        <li className=""></li>
+        <li className="item"></li>
       </ul>
     </div>
   )
