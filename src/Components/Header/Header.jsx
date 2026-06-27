@@ -5,7 +5,7 @@ function Header() {
   return (
     <header className="bg-yellow-400 py-5">
         <div className="container flex items-center justify-between">
-            <div className="">
+            <div className="flex items-center">
                 <h1 className="title">Logo</h1>
                 <ul className="list">
                     <li className="item"><a href="#">Home</a></li>
