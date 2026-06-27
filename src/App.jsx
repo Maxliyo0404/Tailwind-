@@ -5,6 +5,7 @@ import Header from "./Components/Header/Header";
 function App() {
   return (
     <>
+    <Header/>
     </>
   //  <div className="bg-black mx-auto max-w-[1200px] p-5 rounded-full " > 
       
