@@ -4,8 +4,8 @@ import React from 'react'
 function Header() {
   return (
     <header className="bg-green-950 py-5">
-        <div className="container">
-            <div className="card">
+        <div className="container flex items-center ">
+            <div className="">
                 <h1 className="title">Logo</h1>
                 <ul className="list">
                     <li className="item"><a href="#">Home</a></li>
