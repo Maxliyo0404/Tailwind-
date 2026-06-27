@@ -10,6 +10,9 @@ function Header() {
                 <h1 className="title">Logo</h1>
                 <ul className="list">
                     <li className="item"><a href="#">Home</a></li>
+                    <li className="item"><a href="#">Home</a></li>
+                    <li className="item"><a href="#">Home</a></li>
+                    <li className="item"><a href="#">Home</a></li>
                 </ul>
             </div>
         </div>
