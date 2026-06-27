@@ -6,7 +6,9 @@ function Header() {
     <header>
      <div className="cards">
         <div className="container">
-            
+            <div className="card">
+                
+            </div>
         </div>
      </div>
     </header>
