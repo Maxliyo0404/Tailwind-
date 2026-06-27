@@ -8,6 +8,7 @@ function Header() {
         <div className="container">
             <div className="card">
                 <h1 className="title">Logo</h1>
+                <ul></ul>
             </div>
         </div>
      </div>
