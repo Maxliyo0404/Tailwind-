@@ -3,7 +3,8 @@ import React from 'react'
 
 function App() {
   return (
-    
+    <>
+    </>
   //  <div className="bg-black mx-auto max-w-[1200px] p-5 rounded-full " > 
       
   //     <h1 className="t ext-8xl text-white">Welcome Tailwind</h1>
