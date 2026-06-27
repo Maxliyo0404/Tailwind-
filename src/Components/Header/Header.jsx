@@ -9,8 +9,7 @@ function Header() {
             <div className="card">
                 <h1 className="title">Logo</h1>
                 <ul className="list">
-                    <li className="item">
-                    </li>
+                    <li className="item"><a href=""></a></li>
                 </ul>
             </div>
         </div>
