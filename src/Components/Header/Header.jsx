@@ -7,7 +7,7 @@ function Header() {
      <div className="cards">
         <div className="container">
             <div className="card">
-                <h1>Logo</h1>
+                <h1 className="title">Logo</h1>
             </div>
         </div>
      </div>
