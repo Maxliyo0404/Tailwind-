@@ -3,7 +3,7 @@ import React from 'react'
 
 function Header() {
   return (
-    <header className="">
+    <header className="bg-green-950 py-5">
         <div className="container">
             <div className="card">
                 <h1 className="title">Logo</h1>
