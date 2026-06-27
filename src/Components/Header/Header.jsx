@@ -4,7 +4,11 @@ import React from 'react'
 function Header() {
   return (
     <header>
-     <div className="cards"></div>
+     <div className="cards">
+        <div className="container">
+            
+        </div>
+     </div>
     </header>
   )
 }
