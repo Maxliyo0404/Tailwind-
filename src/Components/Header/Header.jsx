@@ -13,7 +13,7 @@ function Header() {
                     <li className="item"><a href="#">Contact</a></li>
                     <li className="item"><a href="#">Services</a></li>
                 </ul>
-                <button className="bg-pink-300">yuborish</button>
+                <button className="border-black 2xl:">yuborish</button>
             </div>
         </div>
      
