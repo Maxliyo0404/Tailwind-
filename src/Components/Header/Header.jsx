@@ -16,7 +16,7 @@ function Header() {
                     <li className="text-white "><a href="#">Services</a></li>
                 </ul>
                 <button>
-                    {}
+                    {darkMode ? "🌙" : "☀️"}
                 </button>
             </div>
         </div>
