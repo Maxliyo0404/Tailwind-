@@ -15,7 +15,7 @@ function Header() {
                     <li className="text-white "><a href="#">Contact</a></li>
                     <li className="text-white "><a href="#">Services</a></li>
                 </ul>
-                <button onClick={()=>setDarkMode}>
+                <button onClick={()=>setDarkMode(!darkMode)}>
                     {darkMode ? "🌙" : "☀️"}
                 </button>
             </div>
