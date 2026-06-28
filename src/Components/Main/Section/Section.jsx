@@ -3,7 +3,13 @@ import React from 'react'
 
 function Section() {
   return (
-    <div>Section</div>
+    <div className="w-full h-screen">
+        <img 
+          className="w-full h-full object-cover" 
+          src="src/Components/Main/Section/nature2.jpg" 
+          alt="tabiat" 
+        />
+    </div>
   )
 }
 
