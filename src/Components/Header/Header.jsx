@@ -9,9 +9,10 @@ function Header() {
             document.body.classList.add("dark");
             document.body.classList.remove("light");
         } else{
-            
+            document.body.classList.add("light");
+            document.body.classList.remove("dark");
         }
-    })
+    }, [darkMode])
 return(
     <>
     <header className="bg-blue-900 py-5">
@@ -23,8 +24,8 @@ return(
                 <li><a className="text-2xl text-white" href="#">Contact</a></li>
                 <li><a className="text-2xl text-white" href="#">Services</a></li>
             </ul>
-            <button >
-
+            <button onClick={()=>setDarkMode(!darkMode)}>
+             {darkMode ? "🌙" : "☀️"}
             </button>
         </div>
     </header>
