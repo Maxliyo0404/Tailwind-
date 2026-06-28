@@ -6,7 +6,8 @@ function Header() {
     const [darkMode, setDarkMode] = useState(false);
     useEffect(()=>{
         if(darkMode){
-            document.
+            document.body.classList.add("dark");
+            
         }
     })
 return(
