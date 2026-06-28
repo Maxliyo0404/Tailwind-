@@ -1,8 +1,9 @@
+import { useState } from "react";
 import "./Header.css";
 import React from 'react'
 
 function Header() {
-    const
+    const [darkMode, setDarkMode] = useState();
   return (
     <header className="bg-yellow-400 py-5">
         <div className="container ">
