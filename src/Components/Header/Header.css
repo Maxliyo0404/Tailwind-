@@ -2,7 +2,7 @@
 body .dark{
     background-color: black;
     color: white;
-    transition: all 03 ease ;
+    transition: background-color 03 ease ;
 }
 body .linght{
     background: #FFFFFF;
