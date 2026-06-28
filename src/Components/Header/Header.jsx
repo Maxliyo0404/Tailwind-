@@ -3,7 +3,7 @@ import "./Header.css";
 import React from 'react'
 
 function Header() {
-    const [darkMode, setDarkMode] = useState();
+    const [darkMode, setDarkMode] = useState(false);
   return (
     <header className="bg-yellow-400 py-5">
         <div className="container ">
