@@ -15,7 +15,7 @@ function Header() {
         }  
     }, [darkMode])
   return (
-    <header className="bg-black py-5">
+    <header className="bg-blue-800 py-5">
             <div className=" container flex items-center justify-between">
                 <h1 className="text-4xl text-white font-bold">Logo</h1>
                 <ul className="list flex items-center gap-5">
