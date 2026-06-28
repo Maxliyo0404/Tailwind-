@@ -8,7 +8,7 @@ function Header() {
     <header className="bg-black py-5">
         <div className="container ">
             <div className="flex items-center justify-between">
-                <h1 className="text-white ">Logo</h1>
+                <h1 className="text-4xl text-white ">Logo</h1>
                 <ul className="list flex items-center gap-5">
                     <li className="text-white "><a href="#">Home</a></li>
                     <li className="text-white "><a href="#">About</a></li>
