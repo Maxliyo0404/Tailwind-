@@ -10,6 +10,9 @@ return(
             <h1>Logo</h1>
             <ul>
                 <li><a className="text-2xl text-white" href="#">Home</a></li>
+                <li><a className="text-2xl text-white" href="#">About</a></li>
+                <li><a className="text-2xl text-white" href="#">Contact</a></li>
+                <li><a className="text-2xl text-white" href="#">Services</a></li>
             </ul>
         </div>
     </header>
