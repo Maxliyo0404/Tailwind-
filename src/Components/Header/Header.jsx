@@ -12,7 +12,7 @@ function Header() {
             document.body.classList.add("light");
             document.body.classList.remove("dark");
         }  
-    })
+    }, [darkMode])
   return (
     <header className="bg-black py-5">
         <div className="container ">
