@@ -8,7 +8,9 @@ return(
     <header>
         <div className="container">
             <h1>Logo</h1>
-            <ul></ul>
+            <ul>
+                <li><a className="text-2xl text-white" href="#">Home</a></li>
+            </ul>
         </div>
     </header>
     
