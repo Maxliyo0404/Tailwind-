@@ -3,6 +3,12 @@ import "./Header.css";
 import React from 'react'
 
 function Header() {
+    const [darkMode, setDarkMode] = useState(false);
+    useEffect(()=>{
+        if(darkMode){
+            document.
+        }
+    })
 return(
     <>
     <header className="bg-blue-900 py-5">
@@ -14,6 +20,9 @@ return(
                 <li><a className="text-2xl text-white" href="#">Contact</a></li>
                 <li><a className="text-2xl text-white" href="#">Services</a></li>
             </ul>
+            <button >
+
+            </button>
         </div>
     </header>
     
