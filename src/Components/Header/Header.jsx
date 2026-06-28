@@ -5,7 +5,9 @@ import React from 'react'
 function Header() {
     const [darkMode, setDarkMode] = useState(false);
     useEffect (()=>{
-        if
+        if (darkMode){
+            document.body.classList.add(dark)
+        }
     })
   return (
     <header className="bg-black py-5">
