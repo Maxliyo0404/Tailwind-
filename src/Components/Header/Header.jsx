@@ -10,7 +10,7 @@ function Header() {
             document.body.classList.remove("light");
         }else{
             document.body.classList.add("light");
-            document
+            document.body.classList.remove("dark");
         }  
     })
   return (
