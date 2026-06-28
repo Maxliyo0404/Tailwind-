@@ -7,6 +7,8 @@ function Header() {
     useEffect(()=>{
         if(darkMode){
             document.body.classList.add("dark");
+            document.body.classList.remove("light");
+        } else{
             
         }
     })
