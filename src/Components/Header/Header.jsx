@@ -13,7 +13,7 @@ function Header() {
                     <li className="text-white "><a href="#">Contact</a></li>
                     <li className="text-white "><a href="#">Services</a></li>
                 </ul>
-                <button className="border-black 2xl:">yuborish</button>
+                <button></button>
             </div>
         </div>
      
