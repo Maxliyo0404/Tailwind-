@@ -2,4 +2,5 @@
 body .dark{
     background-color: black;
     color: white;
+    transition: all 03 ease ;
 }
