@@ -1,5 +1,6 @@
 import "./Hero.css";
 import React from 'react'
+import nature from "./image/nature.jpg"
 
 function Hero() {
   return (
@@ -7,7 +8,7 @@ function Hero() {
         <img 
     
           className="w-full h-full object-cover transition-all duration-500 dark:brightness-[0.4]" 
-          src="src/Components/Hero/image/nature.jpg" 
+          src={nature} 
           alt="tabiat" 
         />
     </div>
