@@ -2,10 +2,10 @@
 body .dark{
     background-color: black;
     color: white;
-    transition: background-color 03 ease ;
+    transition: background-color 0.3 ease ;
 }
 body .light{
     background: #FFFFFF;
     color: black;
-    transition: background-color 03 ease ;
+    transition: background-color 0.3 ease ;
 }
