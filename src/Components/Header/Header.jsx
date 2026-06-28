@@ -1,9 +1,10 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import "./Header.css";
 import React from 'react'
 
 function Header() {
     const [darkMode, setDarkMode] = useState(false);
+    useEffect 
   return (
     <header className="bg-black py-5">
         <div className="container ">
@@ -15,7 +16,7 @@ function Header() {
                     <li className="text-white "><a href="#">Contact</a></li>
                     <li className="text-white "><a href="#">Services</a></li>
                 </ul>
-                <button className="text-4xl" onClick={()=>setDarkMode(!darkMode)}>
+                <button className="text-3xl" onClick={()=>setDarkMode(!darkMode)}>
                     {darkMode ? "🌙" : "☀️"}
                 </button>
             </div>
