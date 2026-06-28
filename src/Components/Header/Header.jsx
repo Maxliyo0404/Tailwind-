@@ -8,7 +8,7 @@ return(
     <header className="bg-blue-900 py-5">
         <div className="container flex items-center justify-between ">
             <h1>Logo</h1>
-            <ul>
+            <ul className="flex gap-6">
                 <li><a className="text-2xl text-white" href="#">Home</a></li>
                 <li><a className="text-2xl text-white" href="#">About</a></li>
                 <li><a className="text-2xl text-white" href="#">Contact</a></li>
