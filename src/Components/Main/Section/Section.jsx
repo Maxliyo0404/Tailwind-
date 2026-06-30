@@ -11,7 +11,6 @@ function Section() {
           alt="tabiat" 
         />
     </div>
-    <div className="car"></div>
   )
 }
 
